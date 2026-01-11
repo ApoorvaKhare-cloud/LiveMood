@@ -20,3 +20,8 @@ python live_mood.py
 
 ## Author
 Apoorva Khare
+
+## 🎥 Demo
+Here is a short demo of LiveMood detecting facial emotions in real time:
+https://github.com/ApoorvaKhare-cloud/LiveMood/blob/main/demo.mp4
+
